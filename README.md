@@ -8,7 +8,7 @@ Focused on building scalable batch data pipelines and end-to-end data solutions 
 
 ## 👨‍💻 About Me
 
-- 💼 Data Engineer with 3+ years of experience in Azure-based data engineering  
+- 💼 Data Engineer with 3.5+ years of experience in Azure-based data engineering  
 - ☁️ Strong in building scalable batch data pipelines using Azure stack  
 - 🧱 Experienced with Medallion Architecture (Bronze → Silver → Gold)  
 - ⚙️ Hands-on with ETL/ELT workflows and incremental data processing  
