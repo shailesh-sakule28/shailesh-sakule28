@@ -52,11 +52,18 @@ Focused on building scalable batch data pipelines and end-to-end data solutions 
 
 ## 🧰 Tools Snapshot
 
-ADF | ADLS Gen2 | Databricks | Delta Lake | Synapse | PySpark | SQL
+ADF | ADLS Gen2 | Databricks | Delta Lake | Synapse | PySpark | SQL | PowerBI | Git - GitHub | CICD
 
 ---
 
 ## 📂 Projects
+### 🔹 Enterprise Data Pipeline (Databricks + Delta Lake)
+- Built scalable data pipeline using Azure Databricks and Delta Lake  
+- Implemented SCD Type 1 & Type 2 for dimensional data modeling  
+- Leveraged Delta Lake features like Time Travel, OPTIMIZE, and VACUUM  
+- Delivered analytics-ready datasets to support business reporting and decision-making
+
+---
 
 ### 🔹 Retail Data Engineering Pipeline (ADF + Synapse)
 - Designed and built end-to-end batch pipeline from on-prem to Azure (~2M+ initial records)  
@@ -64,13 +71,6 @@ ADF | ADLS Gen2 | Databricks | Delta Lake | Synapse | PySpark | SQL
 - Developed incremental ingestion for daily data processing  
 - Enabled cost-efficient analytics using Synapse Serverless SQL  
 
----
-
-### 🔹 Enterprise Data Pipeline (Databricks + Delta Lake)
-- Built scalable data pipeline using Azure Databricks and Delta Lake  
-- Implemented SCD Type 1 & Type 2 for dimensional data modeling  
-- Leveraged Delta Lake features like Time Travel, OPTIMIZE, and VACUUM  
-- Delivered analytics-ready datasets to support business reporting and decision-making  
 
 ---
 
