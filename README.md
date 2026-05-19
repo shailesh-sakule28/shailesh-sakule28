@@ -85,7 +85,7 @@ ADF | ADLS Gen2 | Databricks | Delta Lake | Synapse | PySpark | SQL | PowerBI | 
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/shailesh-sakule-608792404/  
+- LinkedIn: https://www.linkedin.com/in/shailesh-sakule/
 
 ---
 
