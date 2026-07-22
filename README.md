@@ -28,9 +28,6 @@ Experienced Data Engineer with <b>4.6+ years</b> of experience designing scalabl
 
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=shailesh-sakule28&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
 
 ---
 
