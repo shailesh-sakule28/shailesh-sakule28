@@ -1,94 +1,386 @@
-# Hi 👋, I'm Shailesh
+<h1 align="center">Hi 👋, I'm Shailesh Sakule</h1>
 
-🚀 Data Engineer | Azure | ADF | Databricks | PySpark | Synapse  
+<h3 align="center">
+Data Engineer | Microsoft Azure | Microsoft Fabric | Databricks | PySpark | SQL
+</h3>
 
-Focused on building scalable batch data pipelines and end-to-end data solutions on Azure.
+<p align="center">
+Experienced Data Engineer with <b>4.6+ years</b> of experience designing scalable ETL/ELT pipelines, Lakehouse architectures, and enterprise analytics solutions on Microsoft Azure.
+</p>
 
----
+<p align="center">
 
-## 👨‍💻 About Me
+<a href="https://www.linkedin.com/in/shailesh-sakule/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- 💼 Data Engineer with 3.5+ years of experience in Azure-based data engineering  
-- ☁️ Strong in building scalable batch data pipelines using Azure stack  
-- 🧱 Experienced with Medallion Architecture (Bronze → Silver → Gold)  
-- ⚙️ Hands-on with ETL/ELT workflows and incremental data processing  
-- 🎯 Focused on designing reliable, production-grade data systems  
+<a href="https://github.com/shailesh-sakule28">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<a href="https://credentials.databricks.com/77f2d631-456a-4b4c-8538-cb8e414b6ca4#acc.LA3lX1rn">
+<img src="https://img.shields.io/badge/Databricks-Certified%20Data%20Engineer-red?style=for-the-badge&logo=databricks"/>
+</a>
 
-## ⚡ Key Highlights
+<a href="https://learn.microsoft.com/en-us/users/shaileshsakule-9649/credentials/c81f3ce3bd120e1e">
+<img src="https://img.shields.io/badge/Microsoft-DP--700-blue?style=for-the-badge&logo=microsoft"/>
+</a>
 
-- Built end-to-end batch pipelines using ADF, Databricks, and Synapse  
-- Strong experience with data lake architecture and Medallion design  
-- Implemented incremental data loading and SCD Type 1 & Type 2  
-- Hands-on with PySpark for large-scale data transformation  
-- Delivered analytics-ready datasets to support business reporting and decision-making  
+</p>
 
----
-
-## 🚀 Tech Stack
-
-### ☁️ Azure Data Stack
-- Azure Data Factory (ADF)  
-- Azure Data Lake Storage Gen2 (ADLS)  
-- Azure Databricks  
-- Azure Synapse Analytics  
-- Azure SQL Database  
-
-### 🐍 Programming & Processing
-- Python  
-- PySpark  
-- SQL (MySQL, SQL Server, Oracle)
-
-### 🛠️ Data Engineering Concepts
-- ETL / ELT Pipelines  
-- Batch Processing  
-- Incremental Loading  
-- SCD Type 1 & Type 2  
-- Data Modeling (OLAP)  
-- Medallion Architecture  
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shailesh-sakule28&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
-## 🧰 Tools Snapshot
+# 👨‍💻 About Me
 
-ADF | ADLS Gen2 | Databricks | Delta Lake | Synapse | PySpark | SQL | PowerBI | Git - GitHub | CICD
+I'm a **Data Engineer** with **4.6+ years** of experience building scalable, production-grade data engineering solutions on Microsoft Azure.
 
----
+I specialize in designing metadata-driven ETL/ELT pipelines, implementing Lakehouse architectures with Delta Lake, optimizing large-scale data processing using PySpark, and delivering analytics-ready datasets for business intelligence and reporting.
 
-## 📂 Projects
-### 🔹 Enterprise Data Pipeline (Databricks + Delta Lake)
-- Built scalable data pipeline using Azure Databricks and Delta Lake  
-- Implemented SCD Type 1 & Type 2 for dimensional data modeling  
-- Leveraged Delta Lake features like Time Travel, OPTIMIZE, and VACUUM  
-- Delivered analytics-ready datasets to support business reporting and decision-making
+I enjoy solving complex data engineering problems, improving pipeline performance, automating workflows, and continuously learning modern cloud technologies such as Microsoft Fabric and Databricks.
 
 ---
 
-### 🔹 Retail Data Engineering Pipeline (ADF + Synapse)
-- Designed and built end-to-end batch pipeline from on-prem to Azure (~2M+ initial records)  
-- Implemented Medallion Architecture (Bronze → Silver → Gold)  
-- Developed incremental ingestion for daily data processing  
-- Enabled cost-efficient analytics using Synapse Serverless SQL  
+# 🚀 Professional Summary
 
-
----
-
-## 🎯 Focus
-
-- Building scalable and optimized data pipelines on Azure  
-- Designing efficient and reliable data lake architectures  
-- Enhancing performance and cost optimization in data workflows  
-- Developing production-grade data engineering solutions  
+- 💼 4.6+ Years of Professional Experience in Azure Data Engineering
+- ☁️ Strong expertise in Microsoft Azure Data Services
+- ⚡ Experienced in Azure Data Factory, Azure Databricks, ADLS Gen2 & Azure Synapse Analytics
+- 🏗️ Hands-on experience building Metadata-Driven ETL/ELT Pipelines
+- 🔄 Experienced in Watermark-Based Incremental Loading
+- 🚀 Strong knowledge of Apache Spark & Delta Lake
+- 📊 Built enterprise-scale reporting datasets for Power BI
+- 🏛️ Experience implementing Medallion Architecture (Bronze → Silver → Gold)
+- 🛠️ Worked with Azure SQL Database, MySQL & PostgreSQL
+- 🌐 Learning and implementing Microsoft Fabric Data Engineering solutions
 
 ---
 
-## 📫 Connect With Me
+# 🏆 Professional Certifications
 
-- LinkedIn: https://www.linkedin.com/in/shailesh-sakule/
+## 🥇 Databricks Certified Data Engineer Associate
+
+📅 July 2026
+
+**Credential Verification**
+
+https://credentials.databricks.com/77f2d631-456a-4b4c-8538-cb8e414b6ca4#acc.LA3lX1rn
 
 ---
 
-## 📈 Vision
+## 🥇 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
 
-To build reliable, scalable, and efficient data systems that enable data-driven decision-making.
+📅 May 2026
+
+**Credential Verification**
+
+https://learn.microsoft.com/en-us/users/shaileshsakule-9649/credentials/c81f3ce3bd120e1e
+
+---
+
+# 💻 Technical Skills
+
+## ☁️ Cloud & Data Platforms
+
+- Azure Data Factory (ADF)
+- Azure Databricks
+- Azure Data Lake Storage Gen2 (ADLS Gen2)
+- Azure Synapse Analytics
+- Azure SQL Database
+- Azure Logic Apps
+
+---
+
+## Microsoft Fabric
+
+- Microsoft Fabric
+- OneLake
+- Fabric Data Factory
+- Fabric Lakehouse
+- Fabric Data Warehouse
+
+---
+
+## Big Data Technologies
+
+- Apache Spark
+- Delta Lake
+- Auto Loader
+- Unity Catalog
+- Databricks Workflows
+
+---
+
+## Programming & Query Languages
+
+- Python
+- SQL
+- PySpark
+- Spark SQL
+
+---
+
+## Data Engineering
+
+- ETL / ELT Pipelines
+- Metadata-Driven Ingestion
+- Incremental Loading
+- Batch Processing
+- Data Warehousing
+- Data Modeling
+- Medallion Architecture
+- Data Quality Checks
+- Schema Validation
+
+---
+
+## Databases
+
+- Azure SQL Database
+- Microsoft SQL Server
+- MySQL
+- PostgreSQL
+
+---
+
+## Visualization & DevOps
+
+- Power BI
+- Git
+- GitHub
+- Azure DevOps
+
+---
+
+# 💼 Professional Experience
+
+## 🚀 Data Engineer
+
+### Certiview IT & Management Solutions Pvt. Ltd.
+
+**July 2022 – Present**
+
+---
+
+## 📊 Sales Analytics Platform
+
+### Technologies
+
+Azure Data Factory • Azure Databricks • ADLS Gen2 • Delta Lake • PySpark • Spark SQL • Azure SQL Database • MySQL • Azure Logic Apps • Power BI
+
+### Responsibilities
+
+- Designed and developed metadata-driven ETL/ELT pipelines for enterprise data integration.
+- Built scalable Azure Data Factory orchestration pipelines for automated ingestion.
+- Ingested data from **20–25+ enterprise source tables** into Azure Data Lake Storage Gen2.
+- Developed PySpark transformation logic in Azure Databricks.
+- Implemented Delta Lake architecture for reliable data storage and processing.
+- Built watermark-based incremental loading framework.
+- Processed **5K–10K records daily** efficiently.
+- Applied schema validation and comprehensive data quality checks.
+- Implemented business transformation logic using Delta Lake.
+- Automated production monitoring and alert notifications.
+- Reduced manual operational effort by **20–25%**.
+- Delivered analytics-ready datasets for business reporting using Power BI.
+
+---
+
+## 📈 Retail Revenue Insights Platform
+
+### Technologies
+
+Azure Synapse Analytics • Azure Data Factory • ADLS Gen2 • Synapse Spark Pool • Serverless SQL Pool • PySpark • Power BI
+
+### Responsibilities
+
+- Built scalable batch ETL pipelines processing **5K–20K retail transactions daily**.
+- Developed curated reporting datasets.
+- Created Synapse Serverless SQL external tables.
+- Integrated enterprise reporting datasets with Power BI.
+- Resolved duplicate record issues and rerun failures.
+- Performed schema validation and production troubleshooting.
+- Improved production data quality.
+- Reduced manual reporting effort by **15–20%**.
+
+---
+
+## 👨‍🎓 Data Engineer Intern
+
+### Certiview IT & Management Solutions Pvt. Ltd.
+
+**January 2022 – July 2022**
+
+Completed structured Azure Data Engineering training and worked on:
+
+- Azure Data Factory
+- Azure Databricks
+- Azure Data Lake Storage Gen2
+- PySpark
+- Spark SQL
+- SQL
+
+Responsibilities
+
+- ETL Pipeline Development
+- Data Validation
+- Pipeline Testing
+- Documentation
+- Production Support Learning
+
+---
+
+# 🚀 Featured Projects
+
+## 🔹 Metadata-Driven Azure ETL Framework
+
+### Technologies
+
+- Azure Data Factory
+- Azure Databricks
+- ADLS Gen2
+- Delta Lake
+- PySpark
+
+### Highlights
+
+- Built reusable metadata-driven ingestion framework.
+- Automated enterprise data ingestion.
+- Developed configurable ETL pipelines.
+- Implemented incremental loading using watermark logic.
+- Applied schema validation.
+- Implemented data quality framework.
+- Generated analytics-ready Delta Lake datasets.
+
+---
+
+## 🔹 Retail Analytics Data Platform
+
+### Technologies
+
+- Azure Synapse Analytics
+- Azure Data Factory
+- ADLS Gen2
+- PySpark
+- Power BI
+
+### Highlights
+
+- Built scalable batch ETL pipelines.
+- Implemented Medallion Architecture.
+- Created Bronze, Silver and Gold layers.
+- Developed Synapse Serverless SQL external tables.
+- Optimized reporting datasets.
+- Improved data quality through validation framework.
+
+---
+
+## 🔹 Microsoft Fabric Data Engineering
+
+### Technologies
+
+- Microsoft Fabric
+- OneLake
+- Fabric Data Factory
+- Fabric Lakehouse
+- Fabric Data Warehouse
+
+### Highlights
+
+- Built end-to-end Microsoft Fabric data pipelines.
+- Managed enterprise data using OneLake.
+- Implemented Lakehouse architecture.
+- Developed Fabric Data Warehouse solutions.
+- Practiced enterprise Fabric Data Engineering scenarios.
+
+---
+
+# 🎯 Core Competencies
+
+- Azure Data Engineering
+- Microsoft Fabric
+- Azure Data Factory
+- Azure Databricks
+- Azure Synapse Analytics
+- Apache Spark
+- PySpark
+- Spark SQL
+- Delta Lake
+- Auto Loader
+- Unity Catalog
+- Databricks Workflows
+- Metadata-Driven ETL
+- Incremental Loading
+- Data Warehousing
+- Data Modeling
+- Medallion Architecture
+- Data Quality Framework
+- Power BI Integration
+- Performance Optimization
+- Production Support
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Microsoft Fabric
+- Databricks Asset Bundles
+- Unity Catalog
+- Spark Performance Optimization
+- Data Governance
+- Lakehouse Best Practices
+- CI/CD for Azure Data Engineering
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shailesh-sakule28&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh-sakule28&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shailesh-sakule28&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+**shailesh.sakule28@gmail.com**
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/shailesh-sakule/
+
+💻 **GitHub**
+
+https://github.com/shailesh-sakule28
+
+🏅 **Databricks Certified Data Engineer Associate**
+
+https://credentials.databricks.com/77f2d631-456a-4b4c-8538-cb8e414b6ca4#acc.LA3lX1rn
+
+🏅 **Microsoft Certified: Fabric Data Engineer Associate (DP-700)**
+
+https://learn.microsoft.com/en-us/users/shaileshsakule-9649/credentials/c81f3ce3bd120e1e
+
+---
+
+# 💡 Career Objective
+
+To build scalable, cloud-native, and enterprise-grade data platforms that transform raw data into trusted, analytics-ready insights. I am passionate about leveraging Microsoft Azure, Microsoft Fabric, Apache Spark, and modern Lakehouse technologies to solve complex data engineering challenges while continuously learning, sharing knowledge, and contributing to the Data Engineering community.
+
+---
+
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories, connect with me on LinkedIn, and collaborate on exciting Data Engineering projects.**
